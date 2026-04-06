@@ -6,4 +6,5 @@ Read this before doing anything. This malware is destructive. It is designed to 
 ​I'm not providing any response to damages. If you want to test it, you'll need to download the zip file and extract it.
 
 ​Again: Do not run this on your actual hardware. Use VirtualBox or VMware.
+
 ​I made this for entertainment and analysis. I'm not responsible for what you do with it. If you break your computer, that's on you.
