@@ -1,7 +1,7 @@
 # Teranium.exe
 Read this before doing anything. This malware is destructive. It is designed to trash the boot sector of whatever drive it runs on. Only run this in a virtual machine.
 
-​This is a malware I made to mess around with screen-glitching visuals and boot sector overwrites. I've always liked the look of those old-school visual payloads, so I decided to write my own.
+​This is a malware I made to mess around with screen-glitching visuals and boot sector overwrites. I've always liked the look of those cool of salinewin.exe or whatever GDI malware it is, so I decided to write my own.
 
 ​I'm not providing any response to damages. If you want to test it, you'll need to download the zip file and extract it.
 
