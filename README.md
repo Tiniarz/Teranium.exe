@@ -1,4 +1,6 @@
 # Teranium.exe
+![Teranium Welcome](https://img.shields.io/badge/Teranium.exe-welcomes%20you-2c3e50?style=for-the-badge) ![Made with C++](https://img.shields.io/badge/Made%20with-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 Read this before doing anything. This malware is destructive. It is designed to trash the boot sector of whatever drive it runs on. Only run this in a virtual machine.
 
 ​This is a malware I made to mess around with screen-glitching visuals and boot sector overwrites. I've always liked the look of those cool GDI payloads and bytebeat payloads of salinewin.exe or whatever GDI malware it is, so I decided to write my own.
